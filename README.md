@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - Python
 - Java
-- HTML, CSS, JavaScript (basic)
+- HTML, CSS, JavaScript 
 
 ---
 
