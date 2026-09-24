@@ -1,15 +1,14 @@
 ## Hi there 👋 I'm Pratha
 
-🌱 I’m currently learning Web Development & Python  
+🌱 I’m currently learning Web Development  
 💻 Interested in Open Source (GSSoC 2026)  
 🚀 Beginner but ready to contribute  
 
 ---
 
 ## 🛠️ Tech Stack
-- Python
 - Java
-- HTML, CSS, JavaScript 
+- HTML, CSS, JavaScript , Node.js
 
 ---
 
